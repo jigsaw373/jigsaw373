@@ -38,5 +38,3 @@
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=jigsaw373&show_icons=true&line_height=30&count_private=true)
 
 🌱 Learning all about: **Big Data** 
-
-⭐️ From [EngincanV](https://github.com/EngincanV)
